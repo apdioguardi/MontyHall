@@ -1,5 +1,4 @@
 # monty hall problem
-__author__ = 'adioguardi@gmail.com (Adam P. Dioguardi)'
 
 import random
 import time
